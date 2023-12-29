@@ -2,4 +2,4 @@
 
 
 
-Just a repo to store muy trained models
+Just a repo to store my trained models
